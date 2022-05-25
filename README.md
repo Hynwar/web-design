@@ -8,13 +8,17 @@ As taught on the Udemy course: [Building Responsive Websites using HTML and CSS]
 
 1. [Typography](#typography)
 2. [Colors](#colors)
-3. [Illustrations](#colors)
-4. [Icons](#colors)
-5. [Shadows](#colors)
-6. [Border-radius](#colors)
-7. [Whitespace](#colors)
-8. [Visual Hierarchy](#colors)
-9. [User Experience](#colors)
+3. [Images](#images)
+4. [Icons](#icons)
+5. [Shadows](#shadows)
+6. [Border-Radius](#border-radius)
+7. [Whitespace](#whitespace)
+8. [Visual Hierarchy](#visual-hierarchy)
+9. [User Experience](#user-experience)
+
+## Demo
+
+Live Preview of website at : https://h2anwar.github.io/web-design/
 
 ## Typography
 
@@ -66,3 +70,51 @@ As taught on the Udemy course: [Building Responsive Websites using HTML and CSS]
 - Try to use a _tint_ of dark colored backgrounds for the text displayed on top
 - Text should never be completely black, use lighter colors if it looks heavy and uninviting
 - Never make text too light, always aim for a good contrast ratio betweeen text and background colors to make it more accessible
+
+## Images
+
+### Types of Images
+
+- **Product Photos** illustrate products the website is trying to sell
+- **Storytelling Photos** show other people using the product or convey a message about the website
+- **Illustrations** are a more abstract way of storytelling through 2D or 3D illustration
+- **Patterns** are used for interesting visual details
+
+### Finding Good Images
+
+- Use only relevant images that support your website's message and story
+- Always use original looking stock images and avoid generic ones
+- Some free stock image websites include: [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/) and [unDraw](https://undraw.co/)
+
+### Using Images
+
+- Try to show images about _real people_ that the user can connect to
+- If necessary, crop images to fit your messages
+- Experiment with combining photos, illustrations and patterns
+
+### Handling Text on Images
+
+- **Method #1 :** Darken or brighten the image, partially or completely, using a gradient
+- **Method #2 :** Position the text into a neutral area but be careful of image sizes on mobile devices
+- **Method #3 :** Put the text in a box, usually with a transparent background
+
+## Icons
+
+### Finding Good Icons
+
+- Find a good icon pack from [Icons8](https://icons8.com/) or use [Phosphor Icons](https://phosphoricons.com/)
+- Never mix icons from different icon packs as they can stand out from the rest
+- Always use SVG or icon fonts
+- Icon roundness, weight and line style depends on the typography of the website
+
+### Using Icons
+
+- Icons can be used:
+  - To provide visual assistance to text
+  - To convey meaning in product feature blocks
+  - To associate with actions, in such cases they should always be labeled
+  - To appear as bullet points in lists
+- To keep icons neutral, they should have same color as the text
+- To draw attention to icons, they should have a different color
+- The icon should always fit the text or action it is associated with
+- Icons should never be larger than what they were designed for. If necessary, they should be enclosed in a shape
