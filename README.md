@@ -4,17 +4,15 @@ This project is about learning common web design principles and following a fram
 
 As taught on the Udemy course: [Building Responsive Websites using HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-### The framework consists of 9 different areas of design:
+### The framework consists of 7 different areas of design:
 
 1. [Typography](#typography)
 2. [Colors](#colors)
 3. [Images](#images)
 4. [Icons](#icons)
-5. [Shadows](#shadows)
-6. [Border-Radius](#border-radius)
-7. [Whitespace](#whitespace)
-8. [Visual Hierarchy](#visual-hierarchy)
-9. [User Experience](#user-experience)
+5. [Shadows and Border-Radius](#shadows-and-border-radius)
+6. [Whitespace](#whitespace)
+7. [Visual Hierarchy](#visual-hierarchy)
 
 ## Demo
 
@@ -97,6 +95,7 @@ Live Preview of website at : https://h2anwar.github.io/web-design/
 - **Method #1 :** Darken or brighten the image, partially or completely, using a gradient
 - **Method #2 :** Position the text into a neutral area but be careful of image sizes on mobile devices
 - **Method #3 :** Put the text in a box, usually with a transparent background
+- **Method #4 :** Add a drop [shadow](#shadows) to the text
 
 ## Icons
 
@@ -118,3 +117,59 @@ Live Preview of website at : https://h2anwar.github.io/web-design/
 - To draw attention to icons, they should have a different color
 - The icon should always fit the text or action it is associated with
 - Icons should never be larger than what they were designed for. If necessary, they should be enclosed in a shape
+
+## Shadows and Border-Radius
+
+### Using Shadows
+
+- The more _serious / elegant_ or less _playful / fun_ the website is, the less shadows it needs
+- Shadows should only be added to some elements to construct some [visual hierarchy](#visual-hierarchy)
+- Dark shadows can easily ruin any design, so only use light shadows
+- Smaller shadows should be used for small elements to make them stand out
+- Medium shadows are used to make entire sections stand out, for example: cards
+- Large shadows are only for elements that need to float above the interface like pop-ups
+
+### Using Border-Radius
+
+- Border-radius can increase the playfulness and fun of the design while serious and elegant websites need to be less rounded
+- Match border-radius to the roundness of the typography
+- Border-radius is used on buttons, images, icons and standout sections
+
+## Whitespace
+
+### Using Whitespace
+
+- Different sections of a website require a large amount of whitespace
+- Groups of different elements use a medium amount of whitespace
+- Single elements need a small amount of whitespace
+- Using the **Law of Proximity** the more some elements belong together, the closer they should be
+- Too much whitespace can look detached while too little looks cramped
+- Match other design choices in your website, for example, big text or big icons require more whitespace
+
+## Visual Hierarchy
+
+### What is Visual Hierarchy
+
+- The visual hierarchy is the order in which elements are laid out on the page and about establishing which elements are the most important
+- It is about drawing attention to the most important elements and defining a path to guide users through the page
+- A good visual hierarchy can be established through **position, size, colors, spacing, borders and shadows**
+
+### Fundamentals
+
+- The closer the elements are to the top of the page, the more attention they get
+- Images get more attention than text, with bigger images getting more than smaller ones
+- Whitespace can be used strategically to emphasize certain elements
+
+### Establishing a Visual Hierarchy
+
+#### Between Text
+
+- A text's font size, font weight, color and whitespace around it can convey its importance
+- Texts such as titles, subtitles, links, buttons, data points and icons should be emphasized
+- Less important text like labels or secondary information should be de-emphasized
+
+#### Between Components
+
+- A component can be emphasized through background color, shadow or borders
+- Testimonials, call-to-action, highlights, preview cards, forms, pricing, important rows/columns in tabtles need to be emphasized
+- A component can also be emphasized by de-emphasizing a neighbouring component
