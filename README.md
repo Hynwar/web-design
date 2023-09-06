@@ -16,7 +16,7 @@ As taught on the Udemy course: [Building Responsive Websites using HTML and CSS]
 
 ## Demo
 
-Live Preview of website at : https://h2anwar.github.io/web-design/
+Live Preview of website at : https://hynwar.github.io/web-design/
 
 ## Typography
 
